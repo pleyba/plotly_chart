@@ -1,0 +1,6 @@
+
+_obsolete_ignore/index.html
+*.zip
+static_ignore/js/_obsolete/plots.js
+static_ignore/js/data.js
+static_ignore/js/plots.js
